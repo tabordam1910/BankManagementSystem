@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BankManagementSystem.API/BankManagementSystem.API.csproj" />
+  <Project Path="BankManagementSystem.Application/BankManagementSystem.Application.csproj" Id="1ed6542b-53b0-46dd-8f33-a5ec524ddaaa" />
+  <Project Path="BankManagementSystem.Domain/BankManagementSystem.Domain.csproj" Id="acb0d71f-8a38-4419-8ab2-e9fc69b48e75" />
+  <Project Path="BankManagementSystem.Infrastructure/BankManagementSystem.Infrastructure.csproj" Id="1a72e379-e89b-4eff-a840-9bdcdde37591" />
+</Solution>
